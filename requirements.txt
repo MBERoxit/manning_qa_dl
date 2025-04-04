@@ -1,0 +1,10 @@
+# textract cannot be installed, used "pymupdf4llm" instead
+#textract
+pandas
+scikit-learn
+gensim
+transformers
+torch
+django
+django-crispy-forms
+pymupdf4llm
